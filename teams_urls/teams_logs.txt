@@ -1,0 +1,1726 @@
+
+Error reading data from: /Regions/3/Tournaments/618/Albania-Kupa-e-Shqiperise
+
+
+Index: 0
+
+Successfully retrieved from: 1/470
+
+Error reading data from: /Regions/3/Tournaments/406/Albania-Kategoria-e-Pare
+
+
+Index: 2
+
+Error reading data from: /Regions/3/Tournaments/451/Albania-Kategoria-Superiore-qualification
+
+
+Index: 3
+
+Successfully retrieved from: 4/470
+
+Error reading data from: /Regions/4/Tournaments/518/Algeria-
+
+
+Index: 5
+
+Successfully retrieved from: 6/470
+
+Successfully retrieved from: 7/470
+
+Error reading data from: /Regions/6/Tournaments/526/Andorra-
+
+
+Index: 8
+
+Error reading data from: /Regions/6/Tournaments/619/Andorra-Andorra-Cup-1
+
+
+Index: 9
+
+Successfully retrieved from: 10/470
+
+Successfully retrieved from: 11/470
+
+Successfully retrieved from: 12/470
+
+Error reading data from: /Regions/11/Tournaments/317/Argentina-Primera-B-Nacional
+
+
+Index: 13
+
+Error reading data from: /Regions/11/Tournaments/489/Argentina-
+
+
+Index: 14
+
+Error reading data from: /Regions/11/Tournaments/541/Argentina-
+
+
+Index: 15
+
+Error reading data from: /Regions/11/Tournaments/504/Argentina-
+
+
+Index: 16
+
+Error reading data from: /Regions/11/Tournaments/605/Argentina-Argentina-4
+
+
+Index: 17
+
+Successfully retrieved from: 18/470
+
+Error reading data from: /Regions/11/Tournaments/450/Argentina-Primera-B-Nacional-Qualification
+
+
+Index: 19
+
+Successfully retrieved from: 20/470
+
+Error reading data from: /Regions/12/Tournaments/256/Armenia-Cup
+
+
+Index: 21
+
+Error reading data from: /Regions/12/Tournaments/270/Armenia-Super-Cup
+
+
+Index: 22
+
+Error reading data from: /Regions/14/Tournaments/194/Australia-A-League
+
+
+Index: 23
+
+Error reading data from: /Regions/14/Tournaments/312/Australia-Australia-2
+
+
+Index: 24
+
+Error reading data from: /Regions/14/Tournaments/577/Australia-
+
+
+Index: 25
+
+Successfully retrieved from: 26/470
+
+Error reading data from: /Regions/14/Tournaments/612/Australia-Australia-4
+
+
+Index: 27
+
+Error reading data from: /Regions/14/Tournaments/596/Australia-Australia-Youth-1
+
+
+Index: 28
+
+Successfully retrieved from: 29/470
+
+Successfully retrieved from: 30/470
+
+Successfully retrieved from: 31/470
+
+Error reading data from: /Regions/15/Tournaments/90/Austria-Playoff
+
+
+Index: 32
+
+Error reading data from: /Regions/15/Tournaments/83/Austria-Stiegl-Cup
+
+
+Index: 33
+
+Error reading data from: /Regions/15/Tournaments/93/Austria-T-Mobile-Super-Cup
+
+
+Index: 34
+
+Successfully retrieved from: 35/470
+
+Successfully retrieved from: 36/470
+
+Successfully retrieved from: 37/470
+
+Successfully retrieved from: 38/470
+
+Error reading data from: /Regions/16/Tournaments/615/Azerbaijan-Azerbaijan-Cup-1
+
+
+Index: 39
+
+Successfully retrieved from: 40/470
+
+Successfully retrieved from: 41/470
+
+Successfully retrieved from: 42/470
+
+Error reading data from: /Regions/21/Tournaments/657/Belarus-
+
+
+Index: 43
+
+Error reading data from: /Regions/21/Tournaments/480/Belarus-
+
+
+Index: 44
+
+Error reading data from: /Regions/21/Tournaments/620/Belarus-Belarus-Cup-1
+
+
+Index: 45
+
+Error reading data from: /Regions/22/Tournaments/18/Belgium-Jupiler-League
+
+
+Index: 46
+
+Error reading data from: /Regions/22/Tournaments/28/Belgium-Cup
+
+
+Index: 47
+
+Error reading data from: /Regions/22/Tournaments/117/Belgium-Super-Cup
+
+
+Index: 48
+
+Successfully retrieved from: 49/470
+
+Successfully retrieved from: 50/470
+
+Error reading data from: /Regions/22/Tournaments/15/Belgium-Cup
+
+
+Index: 51
+
+Error reading data from: /Regions/22/Tournaments/672/Belgium-
+
+
+Index: 52
+
+Successfully retrieved from: 53/470
+
+Successfully retrieved from: 54/470
+
+Successfully retrieved from: 55/470
+
+Error reading data from: /Regions/27/Tournaments/255/Bolivia-Liga-de-Futbol-Profesional
+
+
+Index: 56
+
+Error reading data from: /Regions/27/Tournaments/528/Bolivia-
+
+
+Index: 57
+
+Error reading data from: /Regions/27/Tournaments/589/Bolivia-Bolivia-2
+
+
+Index: 58
+
+Successfully retrieved from: 59/470
+
+Successfully retrieved from: 60/470
+
+Error reading data from: /Regions/28/Tournaments/616/Bosnia-Herzegovina-Bosnia-Herzegovina-Cup-1
+
+
+Index: 61
+
+Successfully retrieved from: 62/470
+
+Successfully retrieved from: 63/470
+
+Successfully retrieved from: 64/470
+
+Successfully retrieved from: 65/470
+
+Error reading data from: /Regions/31/Tournaments/330/Brazil-Paulista-A1
+
+
+Index: 66
+
+Error reading data from: /Regions/31/Tournaments/383/Brazil-Cup
+
+
+Index: 67
+
+Error reading data from: /Regions/31/Tournaments/115/Brazil-Copa-dos-Campeones
+
+
+Index: 68
+
+Error reading data from: /Regions/31/Tournaments/570/Brazil-
+
+
+Index: 69
+
+Error reading data from: /Regions/31/Tournaments/564/Brazil-
+
+
+Index: 70
+
+Error reading data from: /Regions/31/Tournaments/654/Brazil-
+
+
+Index: 71
+
+Error reading data from: /Regions/31/Tournaments/583/Brazil-Brazil
+
+
+Index: 72
+
+Error reading data from: /Regions/34/Tournaments/119/Bulgaria-A-PFG
+
+
+Index: 73
+
+Successfully retrieved from: 74/470
+
+Error reading data from: /Regions/34/Tournaments/143/Bulgaria-Cup
+
+
+Index: 75
+
+Error reading data from: /Regions/34/Tournaments/169/Bulgaria-Super-Cup
+
+
+Index: 76
+
+Error reading data from: /Regions/34/Tournaments/646/Bulgaria-
+
+
+Index: 77
+
+Successfully retrieved from: 78/470
+
+Successfully retrieved from: 79/470
+
+Successfully retrieved from: 80/470
+
+Error reading data from: /Regions/39/Tournaments/363/Canada-CSL
+
+
+Index: 81
+
+Error reading data from: /Regions/40/Tournaments/342/Cape-Verde-Campeonato-Nacional
+
+
+Index: 82
+
+Successfully retrieved from: 83/470
+
+Successfully retrieved from: 84/470
+
+Error reading data from: /Regions/44/Tournaments/395/Chile-Cup
+
+
+Index: 85
+
+Error reading data from: /Regions/44/Tournaments/554/Chile-
+
+
+Index: 86
+
+Error reading data from: /Regions/44/Tournaments/682/Chile-
+
+
+Index: 87
+
+Successfully retrieved from: 88/470
+
+Error reading data from: /Regions/45/Tournaments/640/China-
+
+
+Index: 89
+
+Error reading data from: /Regions/45/Tournaments/591/China-China-Cup-1
+
+
+Index: 90
+
+Error reading data from: /Regions/48/Tournaments/193/Colombia-Mustang-Cup
+
+
+Index: 91
+
+Error reading data from: /Regions/48/Tournaments/492/Colombia-
+
+
+Index: 92
+
+Error reading data from: /Regions/48/Tournaments/590/Colombia-Colombia-Cup-1
+
+
+Index: 93
+
+Successfully retrieved from: 94/470
+
+Successfully retrieved from: 95/470
+
+Error reading data from: /Regions/53/Tournaments/425/Costa-Rica-Liga-de-Ascenso
+
+
+Index: 96
+
+Error reading data from: /Regions/55/Tournaments/82/Croatia-Prva-HNL
+
+
+Index: 97
+
+Successfully retrieved from: 98/470
+
+Error reading data from: /Regions/55/Tournaments/109/Croatia-Cup
+
+
+Index: 99
+
+Error reading data from: /Regions/55/Tournaments/133/Croatia-Super-Cup
+
+
+Index: 100
+
+Successfully retrieved from: 101/470
+
+Successfully retrieved from: 102/470
+
+Successfully retrieved from: 103/470
+
+Error reading data from: /Regions/57/Tournaments/236/Cyprus-Cup
+
+
+Index: 104
+
+Error reading data from: /Regions/57/Tournaments/283/Cyprus-Super-Cup
+
+
+Index: 105
+
+Successfully retrieved from: 106/470
+
+Successfully retrieved from: 107/470
+
+Error reading data from: /Regions/58/Tournaments/84/Czech-Republic-Cup
+
+
+Index: 108
+
+Error reading data from: /Regions/58/Tournaments/551/Czech-Republic-
+
+
+Index: 109
+
+Error reading data from: /Regions/58/Tournaments/552/Czech-Republic-
+
+
+Index: 110
+
+Error reading data from: /Regions/58/Tournaments/455/Czech-Republic-Super-Cup
+
+
+Index: 111
+
+Error reading data from: /Regions/59/Tournaments/1/Denmark-Superliga
+
+
+Index: 112
+
+Successfully retrieved from: 113/470
+
+Successfully retrieved from: 114/470
+
+Error reading data from: /Regions/59/Tournaments/39/Denmark-Cup
+
+
+Index: 115
+
+Successfully retrieved from: 116/470
+
+Error reading data from: /Regions/63/Tournaments/192/Ecuador-Serie-A
+
+
+Index: 117
+
+Successfully retrieved from: 118/470
+
+Error reading data from: /Regions/64/Tournaments/519/Egypt-
+
+
+Index: 119
+
+Error reading data from: /Regions/65/Tournaments/250/El-Salvador-Primera-Division
+
+
+Index: 120
+
+Successfully retrieved from: 121/470
+
+Error reading data from: /Regions/252/Tournaments/26/England-FA-Cup
+
+
+Index: 122
+
+Error reading data from: /Regions/252/Tournaments/8/England-League-1
+
+
+Index: 123
+
+Error reading data from: /Regions/252/Tournaments/9/England-League-2
+
+
+Index: 124
+
+Error reading data from: /Regions/252/Tournaments/29/England-League-Cup
+
+
+Index: 125
+
+Error reading data from: /Regions/252/Tournaments/96/England-Community-Shield
+
+
+Index: 126
+
+Error reading data from: /Regions/252/Tournaments/7/England-Championship
+
+
+Index: 127
+
+Error reading data from: /Regions/252/Tournaments/70/England-National-League-Premier
+
+
+Index: 128
+
+Error reading data from: /Regions/252/Tournaments/314/England-National-League
+
+
+Index: 129
+
+Error reading data from: /Regions/252/Tournaments/315/England-Regional-League
+
+
+Index: 130
+
+Error reading data from: /Regions/252/Tournaments/23/England-Johnstones-Paint-Trophy
+
+
+Index: 131
+
+Error reading data from: /Regions/252/Tournaments/389/England-Professional-Development-League
+
+
+Index: 132
+
+Error reading data from: /Regions/252/Tournaments/479/England-FA-Trophy
+
+
+Index: 133
+
+Successfully retrieved from: 134/470
+
+Successfully retrieved from: 135/470
+
+Error reading data from: /Regions/68/Tournaments/385/Estonia-Super-Cup
+
+
+Index: 136
+
+Error reading data from: /Regions/68/Tournaments/621/Estonia-Estonia-Cup-2
+
+
+Index: 137
+
+Successfully retrieved from: 138/470
+
+Error reading data from: /Regions/71/Tournaments/622/Faroe-Islands-Faroe-Islands-Cup-1
+
+
+Index: 139
+
+Successfully retrieved from: 140/470
+
+Successfully retrieved from: 141/470
+
+Successfully retrieved from: 142/470
+
+Error reading data from: /Regions/73/Tournaments/319/Finland-Kakkonen
+
+
+Index: 143
+
+Error reading data from: /Regions/73/Tournaments/100/Finland-Playoff
+
+
+Index: 144
+
+Error reading data from: /Regions/73/Tournaments/243/Finland-League-Cup
+
+
+Index: 145
+
+Error reading data from: /Regions/73/Tournaments/51/Finland-Cup
+
+
+Index: 146
+
+Error reading data from: /Regions/73/Tournaments/585/Finland-
+
+
+Index: 147
+
+Error reading data from: /Regions/74/Tournaments/38/France-Coupe-de-la-Ligue
+
+
+Index: 148
+
+Successfully retrieved from: 149/470
+
+Error reading data from: /Regions/74/Tournaments/16/France-Coupe-de-France
+
+
+Index: 150
+
+Error reading data from: /Regions/74/Tournaments/54/France-Trophee-des-Champions
+
+
+Index: 151
+
+Successfully retrieved from: 152/470
+
+Successfully retrieved from: 153/470
+
+Error reading data from: /Regions/74/Tournaments/660/France-
+
+
+Index: 154
+
+Error reading data from: /Regions/74/Tournaments/661/France-
+
+
+Index: 155
+
+Successfully retrieved from: 156/470
+
+Successfully retrieved from: 157/470
+
+Successfully retrieved from: 158/470
+
+Successfully retrieved from: 159/470
+
+Successfully retrieved from: 160/470
+
+Error reading data from: /Regions/80/Tournaments/623/Georgia-Georgia-Cup-1
+
+
+Index: 161
+
+Error reading data from: /Regions/80/Tournaments/507/Georgia-Umaglesi-Liga
+
+
+Index: 162
+
+Successfully retrieved from: 163/470
+
+Error reading data from: /Regions/81/Tournaments/24/Germany-DFB-Pokal
+
+
+Index: 164
+
+Error reading data from: /Regions/81/Tournaments/307/Germany-German-Super-Cup
+
+
+Index: 165
+
+Successfully retrieved from: 166/470
+
+Successfully retrieved from: 167/470
+
+Error reading data from: /Regions/81/Tournaments/56/Germany-Liga-Pokal
+
+
+Index: 168
+
+Error reading data from: /Regions/81/Tournaments/274/Germany-Regionalliga
+
+
+Index: 169
+
+Error reading data from: /Regions/81/Tournaments/388/Germany-Promotion-Relegation-Playoff
+
+
+Index: 170
+
+Error reading data from: /Regions/81/Tournaments/673/Germany-
+
+
+Index: 171
+
+Error reading data from: /Regions/81/Tournaments/666/Germany-
+
+
+Index: 172
+
+Successfully retrieved from: 173/470
+
+Error reading data from: /Regions/82/Tournaments/305/Ghana-Premier-League
+
+
+Index: 174
+
+Error reading data from: /Regions/83/Tournaments/633/Gibraltar-Gibraltar-Cup
+
+
+Index: 175
+
+Successfully retrieved from: 176/470
+
+Successfully retrieved from: 177/470
+
+Error reading data from: /Regions/84/Tournaments/69/Greece-Cup
+
+
+Index: 178
+
+Error reading data from: /Regions/84/Tournaments/300/Greece-Super-Cup
+
+
+Index: 179
+
+Successfully retrieved from: 180/470
+
+Successfully retrieved from: 181/470
+
+Successfully retrieved from: 182/470
+
+Successfully retrieved from: 183/470
+
+Error reading data from: /Regions/89/Tournaments/421/Guatemala-Primera-Division
+
+
+Index: 184
+
+Error reading data from: /Regions/89/Tournaments/239/Guatemala-Liga-Nacional
+
+
+Index: 185
+
+Successfully retrieved from: 186/470
+
+Error reading data from: /Regions/94/Tournaments/376/Haiti-Premiere-Division
+
+
+Index: 187
+
+Error reading data from: /Regions/97/Tournaments/240/Honduras-Liga-Nacional
+
+
+Index: 188
+
+Successfully retrieved from: 189/470
+
+Successfully retrieved from: 190/470
+
+Successfully retrieved from: 191/470
+
+Successfully retrieved from: 192/470
+
+Error reading data from: /Regions/99/Tournaments/102/Hungary-Cup
+
+
+Index: 193
+
+Error reading data from: /Regions/99/Tournaments/132/Hungary-Super-Cup
+
+
+Index: 194
+
+Successfully retrieved from: 195/470
+
+Successfully retrieved from: 196/470
+
+Successfully retrieved from: 197/470
+
+Error reading data from: /Regions/100/Tournaments/206/Iceland-Cup
+
+
+Index: 198
+
+Error reading data from: /Regions/101/Tournaments/582/India-Indian-Super-League
+
+
+Index: 199
+
+Successfully retrieved from: 200/470
+
+Successfully retrieved from: 201/470
+
+Successfully retrieved from: 202/470
+
+Error reading data from: /Regions/103/Tournaments/587/Iran-Hazfi-Cup
+
+
+Index: 203
+
+Successfully retrieved from: 204/470
+
+Error reading data from: /Regions/103/Tournaments/556/Iran-
+
+
+Index: 205
+
+Successfully retrieved from: 206/470
+
+Successfully retrieved from: 207/470
+
+Successfully retrieved from: 208/470
+
+Error reading data from: /Regions/105/Tournaments/116/Ireland-FAI-Cup
+
+
+Index: 209
+
+Error reading data from: /Regions/105/Tournaments/220/Ireland-Playoff
+
+
+Index: 210
+
+Error reading data from: /Regions/105/Tournaments/141/Ireland-League-Cup
+
+
+Index: 211
+
+Error reading data from: /Regions/105/Tournaments/566/Ireland-
+
+
+Index: 212
+
+Error reading data from: /Regions/105/Tournaments/506/Ireland-Setanta-Sports-Cup
+
+
+Index: 213
+
+Successfully retrieved from: 214/470
+
+Successfully retrieved from: 215/470
+
+Error reading data from: /Regions/107/Tournaments/400/Israel-Toto-Cup-Ligat-Al
+
+
+Index: 216
+
+Error reading data from: /Regions/107/Tournaments/674/Israel-
+
+
+Index: 217
+
+Error reading data from: /Regions/107/Tournaments/447/Israel-Ligat-Al-playoff-Qualification
+
+
+Index: 218
+
+Successfully retrieved from: 219/470
+
+Error reading data from: /Regions/108/Tournaments/60/Italy-Coppa-Italia
+
+
+Index: 220
+
+Error reading data from: /Regions/108/Tournaments/64/Italy-Supercoppa-Italiana
+
+
+Index: 221
+
+Error reading data from: /Regions/108/Tournaments/19/Italy-Serie-B
+
+
+Index: 222
+
+Error reading data from: /Regions/108/Tournaments/106/Italy-Lega-Pro
+
+
+Index: 223
+
+Error reading data from: /Regions/108/Tournaments/435/Italy-Lega-Pro-Seconda-Divisione
+
+
+Index: 224
+
+Error reading data from: /Regions/108/Tournaments/91/Italy-Playoff
+
+
+Index: 225
+
+Error reading data from: /Regions/108/Tournaments/675/Italy-
+
+
+Index: 226
+
+Successfully retrieved from: 227/470
+
+Error reading data from: /Regions/109/Tournaments/366/Jamaica-Premier-League
+
+
+Index: 228
+
+Error reading data from: /Regions/110/Tournaments/150/Japan-J-League
+
+
+Index: 229
+
+Error reading data from: /Regions/110/Tournaments/324/Japan-J-League-2
+
+
+Index: 230
+
+Error reading data from: /Regions/110/Tournaments/186/Japan-Cup
+
+
+Index: 231
+
+Error reading data from: /Regions/110/Tournaments/358/Japan-Cup
+
+
+Index: 232
+
+Error reading data from: /Regions/110/Tournaments/248/Japan-Super-Cup
+
+
+Index: 233
+
+Error reading data from: /Regions/110/Tournaments/559/Japan-
+
+
+Index: 234
+
+Error reading data from: /Regions/110/Tournaments/599/Japan-
+
+
+Index: 235
+
+Successfully retrieved from: 236/470
+
+Successfully retrieved from: 237/470
+
+Error reading data from: /Regions/113/Tournaments/558/Kazakhstan-
+
+
+Index: 238
+
+Error reading data from: /Regions/113/Tournaments/604/Kazakhstan-Kazakhstan-Cup-1
+
+
+Index: 239
+
+Error reading data from: /Regions/113/Tournaments/614/Kazakhstan-Kazakhstan-Cup-2
+
+
+Index: 240
+
+Error reading data from: /Regions/114/Tournaments/355/Kenya-Premier-League
+
+
+Index: 241
+
+Error reading data from: /Regions/114/Tournaments/561/Kenya-
+
+
+Index: 242
+
+Error reading data from: /Regions/114/Tournaments/500/Kenya-
+
+
+Index: 243
+
+Successfully retrieved from: 244/470
+
+Error reading data from: /Regions/114/Tournaments/496/Kenya-Kenya-Cup
+
+
+Index: 245
+
+Error reading data from: /Regions/118/Tournaments/293/Kuwait-1-Division
+
+
+Index: 246
+
+Error reading data from: /Regions/121/Tournaments/155/Latvia-Virsliga
+
+
+Index: 247
+
+Error reading data from: /Regions/121/Tournaments/586/Latvia-Latvia-Cup-1
+
+
+Index: 248
+
+Error reading data from: /Regions/121/Tournaments/624/Latvia-Latvia-Cup-2
+
+
+Index: 249
+
+Successfully retrieved from: 250/470
+
+Successfully retrieved from: 251/470
+
+Successfully retrieved from: 252/470
+
+Successfully retrieved from: 253/470
+
+Error reading data from: /Regions/126/Tournaments/617/Liechtenstein-Liechtenstein-Cup-1
+
+
+Index: 254
+
+Successfully retrieved from: 255/470
+
+Error reading data from: /Regions/127/Tournaments/652/Lithuania-
+
+
+Index: 256
+
+Error reading data from: /Regions/127/Tournaments/593/Lithuania-Lithuania-Cup-1
+
+
+Index: 257
+
+Error reading data from: /Regions/127/Tournaments/625/Lithuania-Lithuania-Cup-2
+
+
+Index: 258
+
+Successfully retrieved from: 259/470
+
+Successfully retrieved from: 260/470
+
+Error reading data from: /Regions/128/Tournaments/452/Luxembourg-1-Division-Qualification
+
+
+Index: 261
+
+Error reading data from: /Regions/128/Tournaments/626/Luxembourg-Luxembourg-Cup-1
+
+
+Index: 262
+
+Successfully retrieved from: 263/470
+
+Error reading data from: /Regions/130/Tournaments/453/Macedonia-
+
+
+Index: 264
+
+Error reading data from: /Regions/130/Tournaments/592/Macedonia-
+
+
+Index: 265
+
+Error reading data from: /Regions/130/Tournaments/627/Macedonia-Macedonia-Cup-2
+
+
+Index: 266
+
+Successfully retrieved from: 267/470
+
+Successfully retrieved from: 268/470
+
+Successfully retrieved from: 269/470
+
+Successfully retrieved from: 270/470
+
+Error reading data from: /Regions/136/Tournaments/184/Malta-Premier-League
+
+
+Index: 271
+
+Successfully retrieved from: 272/470
+
+Error reading data from: /Regions/136/Tournaments/628/Malta-Malta-Cup-1
+
+
+Index: 273
+
+Successfully retrieved from: 274/470
+
+Successfully retrieved from: 275/470
+
+Error reading data from: /Regions/142/Tournaments/103/Mexico-Primera-Division
+
+
+Index: 276
+
+Error reading data from: /Regions/142/Tournaments/326/Mexico-Primera-A
+
+
+Index: 277
+
+Error reading data from: /Regions/142/Tournaments/572/Mexico-
+
+
+Index: 278
+
+Error reading data from: /Regions/142/Tournaments/532/Mexico-
+
+
+Index: 279
+
+Successfully retrieved from: 280/470
+
+Successfully retrieved from: 281/470
+
+Successfully retrieved from: 282/470
+
+Error reading data from: /Regions/144/Tournaments/629/Moldova-Moldova-Cup-1
+
+
+Index: 283
+
+Successfully retrieved from: 284/470
+
+Successfully retrieved from: 285/470
+
+Error reading data from: /Regions/147/Tournaments/454/Montenegro-1-Division-Playoff
+
+
+Index: 286
+
+Error reading data from: /Regions/147/Tournaments/630/Montenegro-Montenegro-Cup-1
+
+
+Index: 287
+
+Successfully retrieved from: 288/470
+
+Successfully retrieved from: 289/470
+
+Successfully retrieved from: 290/470
+
+Successfully retrieved from: 291/470
+
+Error reading data from: /Regions/155/Tournaments/120/Netherlands-Dutch-Super-Cup
+
+
+Index: 292
+
+Error reading data from: /Regions/155/Tournaments/47/Netherlands-KNVB-Cup
+
+
+Index: 293
+
+Error reading data from: /Regions/155/Tournaments/13/Netherlands-Eredivisie
+
+
+Index: 294
+
+Error reading data from: /Regions/155/Tournaments/457/Netherlands-Derde-Division
+
+
+Index: 295
+
+Successfully retrieved from: 296/470
+
+Error reading data from: /Regions/155/Tournaments/88/Netherlands-Playoff
+
+
+Index: 297
+
+Successfully retrieved from: 298/470
+
+Error reading data from: /Regions/158/Tournaments/303/New-Zealand-Premier-League
+
+
+Index: 299
+
+Successfully retrieved from: 300/470
+
+Error reading data from: /Regions/159/Tournaments/362/Nicaragua-Campeonato-Nacional
+
+
+Index: 301
+
+Successfully retrieved from: 302/470
+
+Error reading data from: /Regions/258/Tournaments/126/N-Ireland-Premiership
+
+
+Index: 303
+
+Error reading data from: /Regions/258/Tournaments/329/N-Ireland-Promotion-Relegation
+
+
+Index: 304
+
+Error reading data from: /Regions/258/Tournaments/328/N-Ireland-Cup
+
+
+Index: 305
+
+Error reading data from: /Regions/258/Tournaments/545/N-Ireland-
+
+
+Index: 306
+
+Error reading data from: /Regions/258/Tournaments/446/N-Ireland-1-Division
+
+
+Index: 307
+
+Successfully retrieved from: 308/470
+
+Successfully retrieved from: 309/470
+
+Successfully retrieved from: 310/470
+
+Error reading data from: /Regions/165/Tournaments/99/Norway-Playoff
+
+
+Index: 311
+
+Error reading data from: /Regions/165/Tournaments/52/Norway-Cup
+
+
+Index: 312
+
+Error reading data from: /Regions/165/Tournaments/386/Norway-Super-Cup
+
+
+Index: 313
+
+Error reading data from: /Regions/165/Tournaments/681/Norway-
+
+
+Index: 314
+
+Successfully retrieved from: 315/470
+
+Successfully retrieved from: 316/470
+
+Error reading data from: /Regions/166/Tournaments/664/Oman-
+
+
+Index: 317
+
+Successfully retrieved from: 318/470
+
+Error reading data from: /Regions/170/Tournaments/368/Panama-ANAPROF
+
+
+Index: 319
+
+Successfully retrieved from: 320/470
+
+Successfully retrieved from: 321/470
+
+Successfully retrieved from: 322/470
+
+Successfully retrieved from: 323/470
+
+Successfully retrieved from: 324/470
+
+Successfully retrieved from: 325/470
+
+Successfully retrieved from: 326/470
+
+Error reading data from: /Regions/176/Tournaments/204/Poland-Playoff
+
+
+Index: 327
+
+Error reading data from: /Regions/176/Tournaments/101/Poland-Cup
+
+
+Index: 328
+
+Error reading data from: /Regions/176/Tournaments/110/Poland-League-Cup
+
+
+Index: 329
+
+Error reading data from: /Regions/176/Tournaments/231/Poland-Super-Cup
+
+
+Index: 330
+
+Successfully retrieved from: 331/470
+
+Error reading data from: /Regions/177/Tournaments/11/Portugal-Taca-de-Portugal
+
+
+Index: 332
+
+Error reading data from: /Regions/177/Tournaments/122/Portugal-Super-Cup
+
+
+Index: 333
+
+Error reading data from: /Regions/177/Tournaments/414/Portugal-2-Division
+
+
+Index: 334
+
+Successfully retrieved from: 335/470
+
+Error reading data from: /Regions/177/Tournaments/275/Portugal-Carlsberg-Cup
+
+
+Index: 336
+
+Error reading data from: /Regions/177/Tournaments/662/Portugal-
+
+
+Index: 337
+
+Successfully retrieved from: 338/470
+
+Successfully retrieved from: 339/470
+
+Error reading data from: /Regions/179/Tournaments/658/Qatar-
+
+
+Index: 340
+
+Successfully retrieved from: 341/470
+
+Successfully retrieved from: 342/470
+
+Error reading data from: /Regions/181/Tournaments/145/Romania-Cup
+
+
+Index: 343
+
+Error reading data from: /Regions/181/Tournaments/213/Romania-Super-Cup
+
+
+Index: 344
+
+Error reading data from: /Regions/181/Tournaments/571/Romania-
+
+
+Index: 345
+
+Successfully retrieved from: 346/470
+
+Error reading data from: /Regions/182/Tournaments/111/Russia-Cup
+
+
+Index: 347
+
+Error reading data from: /Regions/182/Tournaments/127/Russia-Super-Cup
+
+
+Index: 348
+
+Error reading data from: /Regions/182/Tournaments/527/Russia-Premier-League-Qualification
+
+
+Index: 349
+
+Successfully retrieved from: 350/470
+
+Successfully retrieved from: 351/470
+
+Successfully retrieved from: 352/470
+
+Successfully retrieved from: 353/470
+
+Successfully retrieved from: 354/470
+
+Error reading data from: /Regions/192/Tournaments/331/San-Marino-Campionato
+
+
+Index: 355
+
+Error reading data from: /Regions/192/Tournaments/631/San-Marino-San-Marino-Cup-1
+
+
+Index: 356
+
+Successfully retrieved from: 357/470
+
+Successfully retrieved from: 358/470
+
+Error reading data from: /Regions/253/Tournaments/10/Scotland-Scottish-Cup
+
+
+Index: 359
+
+Successfully retrieved from: 360/470
+
+Successfully retrieved from: 361/470
+
+Successfully retrieved from: 362/470
+
+Successfully retrieved from: 363/470
+
+Error reading data from: /Regions/253/Tournaments/225/Scotland-Playoff
+
+
+Index: 364
+
+Error reading data from: /Regions/253/Tournaments/25/Scotland-Scottish-League-Cup
+
+
+Index: 365
+
+Error reading data from: /Regions/253/Tournaments/118/Scotland-Scottish-Challenge-Cup
+
+
+Index: 366
+
+Error reading data from: /Regions/253/Tournaments/676/Scotland-
+
+
+Index: 367
+
+Error reading data from: /Regions/253/Tournaments/677/Scotland-
+
+
+Index: 368
+
+Error reading data from: /Regions/253/Tournaments/678/Scotland-
+
+
+Index: 369
+
+Successfully retrieved from: 370/470
+
+Successfully retrieved from: 371/470
+
+Successfully retrieved from: 372/470
+
+Successfully retrieved from: 373/470
+
+Error reading data from: /Regions/196/Tournaments/112/Serbia-Cup
+
+
+Index: 374
+
+Successfully retrieved from: 375/470
+
+Successfully retrieved from: 376/470
+
+Error reading data from: /Regions/199/Tournaments/443/Singapore-Cup
+
+
+Index: 377
+
+Error reading data from: /Regions/199/Tournaments/444/Singapore-League-Cup
+
+
+Index: 378
+
+Successfully retrieved from: 379/470
+
+Successfully retrieved from: 380/470
+
+Error reading data from: /Regions/200/Tournaments/107/Slovakia-FA-Cup
+
+
+Index: 381
+
+Error reading data from: /Regions/200/Tournaments/130/Slovakia-Super-Cup
+
+
+Index: 382
+
+Successfully retrieved from: 383/470
+
+Successfully retrieved from: 384/470
+
+Error reading data from: /Regions/201/Tournaments/272/Slovenia-Playoff
+
+
+Index: 385
+
+Error reading data from: /Regions/201/Tournaments/108/Slovenia-Cup
+
+
+Index: 386
+
+Error reading data from: /Regions/201/Tournaments/273/Slovenia-Super-Cup
+
+
+Index: 387
+
+Successfully retrieved from: 388/470
+
+Successfully retrieved from: 389/470
+
+Successfully retrieved from: 390/470
+
+Error reading data from: /Regions/204/Tournaments/579/South-Africa-
+
+
+Index: 391
+
+Error reading data from: /Regions/204/Tournaments/580/South-Africa-
+
+
+Index: 392
+
+Successfully retrieved from: 393/470
+
+Error reading data from: /Regions/260/Tournaments/418/South-Korea-K2-League
+
+
+Index: 394
+
+Error reading data from: /Regions/260/Tournaments/560/South-Korea-
+
+
+Index: 395
+
+Error reading data from: /Regions/260/Tournaments/641/South-Korea-
+
+
+Index: 396
+
+Error reading data from: /Regions/260/Tournaments/634/South-Korea-South-Korea-National-League
+
+
+Index: 397
+
+Successfully retrieved from: 398/470
+
+Error reading data from: /Regions/206/Tournaments/14/Spain-Copa-del-Rey
+
+
+Index: 399
+
+Error reading data from: /Regions/206/Tournaments/61/Spain-Supercopa-de-Espana
+
+
+Index: 400
+
+Error reading data from: /Regions/206/Tournaments/318/Spain-Segunda-B
+
+
+Index: 401
+
+Error reading data from: /Regions/206/Tournaments/438/Spain-Tercera-Division
+
+
+Index: 402
+
+Error reading data from: /Regions/206/Tournaments/63/Spain-Segunda-Division
+
+
+Index: 403
+
+Successfully retrieved from: 404/470
+
+Successfully retrieved from: 405/470
+
+Successfully retrieved from: 406/470
+
+Successfully retrieved from: 407/470
+
+Successfully retrieved from: 408/470
+
+Error reading data from: /Regions/212/Tournaments/98/Sweden-Allsvenskan-qualification
+
+
+Index: 409
+
+Error reading data from: /Regions/212/Tournaments/310/Sweden-Promotion-Relegation-2
+
+
+Index: 410
+
+Error reading data from: /Regions/212/Tournaments/42/Sweden-Cup
+
+
+Index: 411
+
+Error reading data from: /Regions/212/Tournaments/258/Sweden-Super-Cup
+
+
+Index: 412
+
+Error reading data from: /Regions/212/Tournaments/653/Sweden-
+
+
+Index: 413
+
+Error reading data from: /Regions/212/Tournaments/639/Sweden-
+
+
+Index: 414
+
+Successfully retrieved from: 415/470
+
+Successfully retrieved from: 416/470
+
+Successfully retrieved from: 417/470
+
+Successfully retrieved from: 418/470
+
+Successfully retrieved from: 419/470
+
+Error reading data from: /Regions/213/Tournaments/163/Switzerland-Playoff
+
+
+Index: 420
+
+Error reading data from: /Regions/213/Tournaments/45/Switzerland-Switzerland-Cup
+
+
+Index: 421
+
+Successfully retrieved from: 422/470
+
+Error reading data from: /Regions/213/Tournaments/461/Switzerland-1-Liga
+
+
+Index: 423
+
+Successfully retrieved from: 424/470
+
+Successfully retrieved from: 425/470
+
+Successfully retrieved from: 426/470
+
+Successfully retrieved from: 427/470
+
+Successfully retrieved from: 428/470
+
+Successfully retrieved from: 429/470
+
+Successfully retrieved from: 430/470
+
+Successfully retrieved from: 431/470
+
+Successfully retrieved from: 432/470
+
+Error reading data from: /Regions/224/Tournaments/663/Tunisia-
+
+
+Index: 433
+
+Successfully retrieved from: 434/470
+
+Error reading data from: /Regions/225/Tournaments/44/Turkey-Cup
+
+
+Index: 435
+
+Error reading data from: /Regions/225/Tournaments/233/Turkey-Super-Cup
+
+
+Index: 436
+
+Error reading data from: /Regions/225/Tournaments/140/Turkey-TFF-1-Lig
+
+
+Index: 437
+
+Error reading data from: /Regions/225/Tournaments/280/Turkey-TFF-2-Lig
+
+
+Index: 438
+
+Error reading data from: /Regions/225/Tournaments/327/Turkey-TFF-3-Lig
+
+
+Index: 439
+
+Successfully retrieved from: 440/470
+
+Successfully retrieved from: 441/470
+
+Successfully retrieved from: 442/470
+
+Successfully retrieved from: 443/470
+
+Error reading data from: /Regions/230/Tournaments/125/Ukraine-Cup
+
+
+Index: 444
+
+Error reading data from: /Regions/230/Tournaments/164/Ukraine-Super-Cup
+
+
+Index: 445
+
+Successfully retrieved from: 446/470
+
+Successfully retrieved from: 447/470
+
+Error reading data from: /Regions/235/Tournaments/423/Uruguay-Segunda-Division
+
+
+Index: 448
+
+Error reading data from: /Regions/233/Tournaments/85/USA-Major-League-Soccer
+
+
+Index: 449
+
+Error reading data from: /Regions/233/Tournaments/594/USA-PDL
+
+
+Index: 450
+
+Error reading data from: /Regions/233/Tournaments/322/USA-USL-1
+
+
+Index: 451
+
+Error reading data from: /Regions/233/Tournaments/568/USA-US-Open
+
+
+Index: 452
+
+Successfully retrieved from: 453/470
+
+Successfully retrieved from: 454/470
+
+Successfully retrieved from: 455/470
+
+Error reading data from: /Regions/236/Tournaments/643/Uzbekistan-
+
+
+Index: 456
+
+Error reading data from: /Regions/238/Tournaments/237/Venezuela-Primera-Division
+
+
+Index: 457
+
+Successfully retrieved from: 458/470
+
+Successfully retrieved from: 459/470
+
+Error reading data from: /Regions/239/Tournaments/651/Vietnam-
+
+
+Index: 460
+
+Error reading data from: /Regions/239/Tournaments/602/Vietnam-Viet-nam-2
+
+
+Index: 461
+
+Successfully retrieved from: 462/470
+
+Error reading data from: /Regions/254/Tournaments/138/Wales-Premier-Division
+
+
+Index: 463
+
+Error reading data from: /Regions/254/Tournaments/151/Wales-Cup
+
+
+Index: 464
+
+Successfully retrieved from: 465/470
+
+Error reading data from: /Regions/254/Tournaments/448/Wales-Welsh-Cup
+
+
+Index: 466
+
+Successfully retrieved from: 467/470
+
+Successfully retrieved from: 468/470
+
+Successfully retrieved from: 469/470

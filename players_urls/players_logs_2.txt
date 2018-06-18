@@ -1,0 +1,3545 @@
+
+Successfully retrieved from:
+Tier: 0/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 1/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 2/455
+Teams: 0/0
+Count: 10
+
+Error accessing: /Teams/893/Show/Argentina-Talleres
+
+Index: 0, 2
+Count: 9
+
+Successfully retrieved from:
+Tier: 2/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 3/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 4/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 5/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 6/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 6/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 7/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 8/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 9/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 10/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 11/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 12/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 13/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 13/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 14/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 15/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 16/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 17/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 18/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 19/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 20/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 21/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 22/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 23/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 24/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 25/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 26/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 27/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 28/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 29/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 30/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 31/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 32/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 33/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 34/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 34/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 34/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 34/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 35/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 35/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 36/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 36/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 36/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 36/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 36/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 36/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 37/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 2
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/2531/Show/China-Shandong-Luneng
+
+
+Couldn't find any data in: /Teams/2531/Show/China-Shandong-Luneng
+
+Index: 0, 38
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/2531/Show/China-Shandong-Luneng
+
+
+Successfully retrieved from:
+Tier: 38/455
+Teams: 0/0
+Count: 1
+
+Successfully retrieved from:
+Tier: 39/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 39/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 39/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 39/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 40/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 40/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 40/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 40/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 40/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 40/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 41/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 41/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 42/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 43/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 44/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 45/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 46/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 47/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 48/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 48/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 49/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 50/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 51/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 52/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 53/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 54/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 55/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 56/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 57/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 58/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 59/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 60/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 61/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 62/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 63/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 64/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 65/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 66/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 66/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 67/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 68/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 69/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 70/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 71/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 72/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 73/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 74/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 75/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 76/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 77/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 78/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 79/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 80/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 81/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 81/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 82/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 83/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 84/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 85/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 86/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 87/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 88/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 89/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 90/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 91/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 92/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 93/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 94/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 95/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 96/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 97/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 98/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 99/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 100/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 101/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 102/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 103/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 104/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 104/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 105/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 106/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 107/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 108/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 109/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 110/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 111/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 112/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 113/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 114/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 115/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 116/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 117/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 118/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 119/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 120/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 121/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 122/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 123/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 124/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 125/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 126/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 127/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 128/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 128/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 128/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 128/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 128/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 128/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 129/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 129/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 129/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 129/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 129/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 129/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 130/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 131/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 132/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 133/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 133/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 134/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 135/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 136/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 137/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 138/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 139/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 140/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 141/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 142/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 143/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 144/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 145/455
+Teams: 0/0
+Count: 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/37/Show/Germany-Bayern-Munich
+
+
+Couldn't find any data in: /Teams/37/Show/Germany-Bayern-Munich
+
+Index: 0, 145
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/37/Show/Germany-Bayern-Munich
+
+
+Successfully retrieved from:
+Tier: 146/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 147/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 148/455
+Teams: 0/0
+Count: 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/44/Show/Germany-Borussia-Dortmund
+
+
+Couldn't find any data in: /Teams/44/Show/Germany-Borussia-Dortmund
+
+Index: 0, 148
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/44/Show/Germany-Borussia-Dortmund
+
+
+Successfully retrieved from:
+Tier: 149/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 149/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 150/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 151/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 152/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 152/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 153/455
+Teams: 0/0
+Count: 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/47/Show/Germany-Hertha-Berlin
+
+
+Couldn't find any data in: /Teams/47/Show/Germany-Hertha-Berlin
+
+Index: 0, 153
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/47/Show/Germany-Hertha-Berlin
+
+
+Successfully retrieved from:
+Tier: 154/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 154/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 154/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 155/455
+Teams: 0/0
+Count: 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/1150/Show/Germany-Fortuna-Duesseldorf
+
+
+Couldn't find any data in: /Teams/1150/Show/Germany-Fortuna-Duesseldorf
+
+Index: 0, 155
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/1150/Show/Germany-Fortuna-Duesseldorf
+
+
+Successfully retrieved from:
+Tier: 156/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 157/455
+Teams: 0/0
+Count: 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/1206/Show/Germany-Holstein-Kiel
+
+
+Couldn't find any data in: /Teams/1206/Show/Germany-Holstein-Kiel
+
+Index: 0, 157
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++/Teams/1206/Show/Germany-Holstein-Kiel
+
+
+Successfully retrieved from:
+Tier: 158/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 158/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 159/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 159/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 160/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 160/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 160/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 161/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 161/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 162/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 162/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 162/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 162/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 162/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 163/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 164/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 164/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 164/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 165/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 165/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 166/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 166/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 166/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 166/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 166/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 167/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 167/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 167/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 168/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 168/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 169/455
+Teams: 0/0
+Count: 1
+
+Successfully retrieved from:
+Tier: 170/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 171/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 172/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 172/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 172/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 172/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 173/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 173/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 174/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 175/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 175/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 176/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 177/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 178/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 178/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 179/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 179/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 179/455
+Teams: 0/0
+Count: 8
+
+Error accessing: /Teams/790/Show/Germany-RW-Erfurt
+
+Index: 0, 180
+Count: 10
+
+Successfully retrieved from:
+Tier: 180/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 181/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 182/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 183/455
+Teams: 0/0
+Count: 10
+
+Error accessing: /Teams/2870/Show/Greece-Atromitos
+
+Index: 0, 184
+Count: 10
+
+Successfully retrieved from:
+Tier: 184/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 185/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 186/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 187/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 188/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 189/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 190/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 191/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 192/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 193/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 194/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 195/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 196/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 196/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 197/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 198/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 199/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 200/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 200/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 201/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 202/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 203/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 204/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 205/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 206/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 207/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 208/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 208/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 209/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 210/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 211/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 212/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 213/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 214/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 214/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 215/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 216/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 217/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 218/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 219/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 220/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 221/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 222/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 222/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 223/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 224/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 225/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 226/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 227/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 228/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 229/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 230/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 231/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 232/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 233/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 234/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 235/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 236/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 237/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 238/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 239/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 240/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 241/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 242/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 243/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 244/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 245/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 246/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 247/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 248/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 249/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 250/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 251/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 252/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 253/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 254/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 255/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 256/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 257/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 258/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 259/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 260/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 260/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 261/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 262/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 263/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 264/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 265/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 266/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 267/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 268/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 269/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 270/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 271/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 272/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 273/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 274/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 275/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 276/455
+Teams: 0/0
+Count: 10
+
+Error reading data from: /Teams/1463/Show/Portugal-Portimonense
+
+Index: 0, 277
+Count: 10
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 8
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 7
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 6
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 5
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 4
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 3
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 2
+
+Successfully retrieved from:
+Tier: 277/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 278/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 279/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 280/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 281/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 282/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 283/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 284/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 285/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 286/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 287/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 288/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 289/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 290/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 291/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 291/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 292/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 293/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 293/455
+Teams: 0/0
+Count: 9
+
+Successfully retrieved from:
+Tier: 294/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 295/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 296/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 297/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 298/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 299/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 300/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 301/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 302/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 303/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 304/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 305/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 306/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 307/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 308/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 309/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 310/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 311/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 312/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 313/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 314/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 315/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 316/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 317/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 318/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 319/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 320/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 321/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 322/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 323/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 324/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 325/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 326/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 327/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 328/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 329/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 330/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 331/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 332/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 333/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 334/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 335/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 336/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 337/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 338/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 339/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 340/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 341/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 342/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 343/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 344/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 345/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 346/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 347/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 348/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 349/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 350/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 351/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 352/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 353/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 354/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 355/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 356/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 357/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 358/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 358/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 360/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 361/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 362/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 363/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 364/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 365/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 366/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 367/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 368/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 369/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 370/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 371/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 372/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 373/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 374/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 375/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 376/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 377/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 378/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 379/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 380/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 381/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 382/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 383/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 384/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 385/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 386/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 387/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 388/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 389/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 390/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 391/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 392/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 393/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 394/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 395/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 396/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 397/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 398/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 399/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 400/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 401/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 402/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 403/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 404/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 405/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 406/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 407/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 408/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 409/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 410/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 411/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 412/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 413/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 414/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 415/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 416/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 417/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 418/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 419/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 420/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 421/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 422/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 423/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 424/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 425/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 426/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 427/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 428/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 429/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 430/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 431/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 432/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 433/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 430/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 423/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 436/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 437/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 438/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 439/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 440/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 441/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 442/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 443/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 444/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 445/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 446/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 447/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 448/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 449/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 450/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 451/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 452/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 453/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 454/455
+Teams: 0/0
+Count: 10
+
+Successfully retrieved from:
+Tier: 455/455
+Teams: 0/0
+Count: 10
