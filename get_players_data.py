@@ -69,7 +69,7 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
     teams_len = len(teams_players)-1
     table_names = ['summary','defensive','offensive','passing','detailed']
     
-    for idx_1 in range(first_idx, teams_len): #type(players_urls) == list
+    for idx_1 in range(first_idx, 24): #type(players_urls) == list
         
         item = teams_players[idx_1]
         
@@ -79,7 +79,7 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
             
             players_len = len(players)-1
                     
-            for idx_2 in range(second_idx, players_len):
+            for idx_2 in range(second_idx, 11):
                 
                 player = players[idx_2]
                 #player = '/Players/11119/Show/Lionel-Messi'
@@ -177,20 +177,20 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
                                 for tr in trs:
                                     
                                     tds = tr.find_all('td')
-                                    
-                                    #Get the current season and name
-                                    if 'Show' in player:
-                                        season = "current"
-                                    else:
-                                        season = process_info(tds[0].get_text().strip())
-                                    
-                                    undefined_table[0] = player_name + "-" + season
-                                    
+                                   
                                     #Extract all the data from the tables
                                     if table_name == 'summary':
                                         if len(tds) != 12:
                                             player_data += undefined_table
                                         else:
+                                            
+                                            #Get the current season and name
+                                            if 'Show' in player:
+                                                season = "current"
+                                            else:
+                                                season = process_info(tds[0].get_text().strip())
+                                            
+                                            undefined_table[0] = player_name + "-" + season
                             
                                             mins = float(process_info(tds[2].get_text().strip())) if tds[2].get_text().strip() != '-' else "Undefined" #Mins
                                             if mins == "Undefined":
@@ -378,12 +378,41 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
                 
     sel.stop_server_and_driver(server, driver)
     return
+
+def get_pending_players():
+    pending = []
                             
+    with open(PLAYERS_DATA, 'r') as f:
+        for line in f.readlines():
+            line_dict = ast.literal_eval(line)
+            key = line_dict.keys()[0]
+            values = ast.literal_eval(line_dict.values()[0])
+            
+            count_undefined = 0
+            for idx in range(len(values)):
+                value = values[idx]
+                if value == 'Undefined':
+                    count_undefined += 1
+            if 3 < count_undefined < 28:
+                pending.append(str({"Tier":[key]}))
+            elif 0 < count_undefined < 4 and values[-1] != 'Undefined' and values[-2] != 'Undefined' and \
+            values[-3] != 'Undefined':
+                pending.append(str({"Tier":[key]}))
+            else:
+                pass
+    
+    print(len(pending))
+    
+    with open('players_data/players_pending.txt', 'w') as f:
+        for player in pending:
+            f.write(player+"\n")
+        
+        
     
 if __name__ == "__main__":
-    get_players_data(0, 0, PLAYERS_URLS, PLAYERS_DATA, LOGS)
-
-    
+    #get_players_data(0, 0, PLAYERS_URLS, PLAYERS_DATA, LOGS)
+    get_pending_players()
+    pass
 
 
 
