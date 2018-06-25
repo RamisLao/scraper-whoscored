@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from helper_functions import read_from_file, append_to_file, process_info
+from helper_functions import read_from_file, append_to_file, process_info, append_to_csv
 
 import time
 import bs4
@@ -69,7 +69,7 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
     teams_len = len(teams_players)-1
     table_names = ['summary','defensive','offensive','passing','detailed']
     
-    for idx_1 in range(first_idx, 24): #type(players_urls) == list
+    for idx_1 in range(first_idx, teams_len): #type(players_urls) == list
         
         item = teams_players[idx_1]
         
@@ -79,19 +79,19 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
             
             players_len = len(players)-1
                     
-            for idx_2 in range(second_idx, 11):
+            for idx_2 in range(second_idx, 1):
                 
                 player = players[idx_2]
                 #player = '/Players/11119/Show/Lionel-Messi'
                 separated = player.split("Show")
                                 
-                for url_completion in ["Show"]:
+                for url_completion in ["History"]:
                     player = url_completion.join(separated)
                                 
                     repeat = True
                     repeat_count = 10
                         
-                    while repeat == True and repeat_count > 9:
+                    while repeat == True and repeat_count > 0:
                         
                         error = False
                         
@@ -381,8 +381,9 @@ def get_players_data(first_idx, second_idx, players_urls, data, logs_path):
 
 def get_pending_players():
     pending = []
+    not_pending = []
                             
-    with open(PLAYERS_DATA, 'r') as f:
+    with open('players_data/players_data2.txt', 'r') as f:
         for line in f.readlines():
             line_dict = ast.literal_eval(line)
             key = line_dict.keys()[0]
@@ -399,21 +400,48 @@ def get_pending_players():
             values[-3] != 'Undefined':
                 pending.append(str({"Tier":[key]}))
             else:
-                pass
-    
-    print(len(pending))
-    
+                not_pending.append(line)
+        
     with open('players_data/players_pending.txt', 'w') as f:
         for player in pending:
             f.write(player+"\n")
+    with open('players_data/players_data_clean2.txt', 'w') as f:
+        for player in not_pending:
+            f.write(player+"\n")
         
-        
+def join_datasets():
+    all_data = []
+    with open('players_data/players_data_clean1.txt', 'r') as f:
+        for line in f.readlines():
+            all_data.append(line)
+    with open('players_data/players_data_clean2.txt', 'r') as f:
+        for line in f.readlines():
+            all_data.append(line)
+    with open('players_data/players_pending_data.txt', 'r') as f:
+        for line in f.readlines():
+            all_data.append(line)
+    with open('players_data/players_pending_data2.txt', 'r') as f:
+        for line in f.readlines():
+            all_data.append(line)
+            
+    with open('players_data/players_all_data.txt', 'w') as f:
+        for line in all_data:
+            if line != '\n':
+                f.write(line)
+            
+def to_csv():
+    with open('players_data/whoscored_data.txt', 'r') as f:
+        append_to_csv(FEATURES, 'players_data/whoscored_data.csv')
+        for line in f.readlines():
+            append_to_csv(ast.literal_eval(ast.literal_eval(line).values()[0]), 'players_data/whoscored_data.csv')
+    
     
 if __name__ == "__main__":
-    #get_players_data(0, 0, PLAYERS_URLS, PLAYERS_DATA, LOGS)
-    get_pending_players()
+    #get_players_data(0, 0, 'players_data/players_pending.txt', 'players_data/players_pending_data.txt', 'players_data/players_pending_logs.txt')
+    #get_pending_players()
+    #join_datasets()
+    to_csv()
     pass
-
 
 
 

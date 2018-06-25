@@ -1,0 +1,5305 @@
+
+Successfully retrieved from:
+Team: 0/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 2/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 3/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 4/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 5/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 6/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 7/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 8/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 9/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 10/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 11/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 12/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 13/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 14/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 15/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 16/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 17/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 18/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 19/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 20/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 21/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 22/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 23/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 24/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 25/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 26/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 27/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 28/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 29/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 30/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 31/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 32/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 33/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 34/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 35/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 36/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 37/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 38/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 39/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 40/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 41/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 42/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 43/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 44/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 45/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 46/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 47/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 48/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 49/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 50/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 51/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 52/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 53/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 54/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 55/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 56/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 57/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 58/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 59/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 60/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 61/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 62/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 63/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 64/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 65/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 66/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 67/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 68/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 69/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 70/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 71/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 72/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 73/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 74/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 75/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 76/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 77/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 78/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 79/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 80/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 81/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 82/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 83/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 84/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 85/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 86/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 87/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 88/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 89/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 90/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 91/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 92/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 93/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 94/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 95/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 96/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 97/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 98/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 99/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 100/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 101/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 102/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 103/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 104/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 105/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 106/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 107/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 108/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 109/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 110/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 111/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 112/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 113/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 114/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 115/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 116/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 117/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 118/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 119/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 120/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 121/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 122/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 123/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 124/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 125/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 126/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 127/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 128/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 129/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 130/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 131/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 132/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 133/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 134/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 135/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 136/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 137/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 138/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 139/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 140/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 141/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 142/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 143/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 144/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 145/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 146/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 147/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 148/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 149/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 150/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 151/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 152/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 153/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 154/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 155/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 156/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 157/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 158/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 159/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 160/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 161/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 162/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 163/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 164/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 165/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 166/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 167/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 168/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 169/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 170/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 171/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 172/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 173/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 174/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 175/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 176/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 177/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 178/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 179/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 180/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 181/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 182/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 183/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 184/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 185/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 186/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 187/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 188/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 189/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 190/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 191/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 192/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 193/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 194/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 195/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 196/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 197/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 198/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 199/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 200/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 201/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 202/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 203/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 204/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 205/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 206/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 207/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 208/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 209/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 210/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 211/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 212/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 213/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 214/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 215/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 216/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 217/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 218/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 219/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 220/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 221/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 222/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 223/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 224/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 225/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 226/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 227/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 228/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 229/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 230/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 231/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 232/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 233/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 234/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 235/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 236/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 237/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 238/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 239/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 240/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 241/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 242/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 243/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 244/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 245/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 246/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 247/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 248/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 249/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 250/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 251/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 252/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 253/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 254/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 255/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 256/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 257/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 258/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 259/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 260/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 261/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 262/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 263/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 264/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 265/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 266/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 267/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 268/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 269/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 270/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 271/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 272/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 273/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 274/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 275/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 276/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 277/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 278/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 279/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 280/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 281/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 282/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 283/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 284/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 285/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 286/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 287/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 288/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 289/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 290/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 291/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 292/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 293/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 294/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 295/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 296/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 297/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 298/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 299/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 300/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 301/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 302/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 303/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 304/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 305/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 306/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 307/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 308/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 309/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 310/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 311/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 312/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 313/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 314/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 315/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 316/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 317/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 318/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 319/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 320/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 321/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 322/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 323/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 324/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 325/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 326/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 327/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 328/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 329/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 330/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 331/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 332/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 333/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 334/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 335/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 336/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 337/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 338/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 339/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 340/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 341/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 342/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 343/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 344/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 345/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 346/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 347/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 348/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 349/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 350/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 351/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 352/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 353/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 354/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 355/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 356/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 357/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 358/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 359/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 360/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 361/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 362/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 363/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 364/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 365/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 366/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 367/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 368/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 369/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 370/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 371/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 372/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 373/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 374/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 375/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 376/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 377/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 378/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 379/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 380/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 381/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 382/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 383/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 384/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 385/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 386/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 387/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 388/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 389/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 390/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 391/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 392/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 393/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 394/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 395/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 396/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 397/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 398/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 399/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 400/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 401/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 402/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 403/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 404/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 405/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 406/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 407/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 408/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 409/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 410/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 411/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 412/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 413/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 414/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 415/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 416/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 417/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 418/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 419/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 420/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 421/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 422/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 423/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 424/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 425/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 426/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 427/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 428/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 429/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 430/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 431/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 432/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 433/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 434/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 435/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 436/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 437/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 438/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 439/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 440/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 441/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 442/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 443/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 444/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 445/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 446/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 447/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 448/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 449/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 450/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 451/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 452/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 453/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 454/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 455/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 456/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 457/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 458/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 459/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 460/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 461/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 462/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 463/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 464/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 465/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 466/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 467/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 468/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 469/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 470/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 471/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 472/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 473/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 474/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 475/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 476/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 477/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 478/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 479/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 480/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 481/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 482/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 483/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 484/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 485/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 486/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 487/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 488/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 489/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 490/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 491/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 492/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 493/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 494/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 495/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 496/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 497/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 498/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 499/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 500/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 501/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 502/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 503/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 504/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 505/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 506/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 507/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 508/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 509/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 510/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 511/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 512/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 513/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 514/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 515/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 516/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 517/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 518/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 519/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 520/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 521/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 522/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 523/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 524/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 525/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 526/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 527/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 528/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 529/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 530/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 531/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 532/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 533/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 534/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 535/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 536/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 537/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 538/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 539/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 540/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 541/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 542/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 543/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 544/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 545/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 546/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 547/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 548/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 549/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 550/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 551/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 552/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 553/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 554/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 555/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 556/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 557/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 558/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 559/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 560/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 561/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 562/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 563/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 564/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 565/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 566/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 567/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 568/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 569/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 570/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 571/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 572/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 573/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 574/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 575/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 576/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 577/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 578/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 579/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 580/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 581/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 582/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 583/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 584/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 585/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 586/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 587/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 588/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 589/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 590/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 591/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 592/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 593/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 594/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 595/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 596/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 597/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 598/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 599/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 600/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 601/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 602/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 603/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 604/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 605/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 606/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 607/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 608/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 609/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 610/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 611/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 612/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 613/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 614/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 615/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 616/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 617/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 618/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 619/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 620/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 621/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 622/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 623/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 624/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 625/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 626/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 627/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 628/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 629/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 630/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 631/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 632/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 633/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 634/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 635/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 636/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 637/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 638/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 639/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 640/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 641/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 642/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 643/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 644/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 645/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 646/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 647/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 648/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 649/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 650/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 651/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 652/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 653/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 654/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 655/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 656/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 657/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 658/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 659/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 660/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 661/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 662/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 663/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 664/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 665/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 666/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 667/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 668/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 669/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 670/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 671/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 672/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 673/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 674/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 675/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 676/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 677/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 678/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 679/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 680/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 681/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 682/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 683/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 684/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 685/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 686/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 687/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 688/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 689/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 690/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 691/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 692/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 693/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 694/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 695/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 696/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 697/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 698/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 699/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 700/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 701/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 702/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 703/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 704/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 705/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 706/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 707/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 708/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 709/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 710/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 711/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 712/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 713/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 714/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 715/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 716/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 717/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 718/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 719/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 720/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 721/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 722/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 723/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 724/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 725/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 726/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 727/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 728/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 729/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 730/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 731/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 732/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 733/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 734/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 735/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 736/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 737/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 738/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 739/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 740/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 741/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 742/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 743/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 744/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 745/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 746/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 747/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 748/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 749/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 750/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 751/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 752/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 753/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 754/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 755/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 756/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 757/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 758/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 759/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 760/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 761/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 762/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 763/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 764/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 765/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 766/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 767/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 768/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 769/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 770/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 771/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 772/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 773/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 774/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 775/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 776/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 777/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 778/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 779/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 780/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 781/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 782/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 783/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 784/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 785/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 786/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 787/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 788/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 789/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 790/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 791/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 792/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 793/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 794/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 795/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 796/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 797/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 798/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 799/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 800/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 801/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 802/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 803/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 804/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 805/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 806/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 807/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 808/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 809/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 810/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 811/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 812/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 813/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 814/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 815/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 816/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 817/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 818/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 819/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 820/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 821/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 822/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 823/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 824/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 825/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 826/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 827/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 828/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 829/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 830/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 831/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 832/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 833/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 834/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 835/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 836/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 837/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 838/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 839/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 840/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 841/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 842/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 843/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 844/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 845/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 846/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 847/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 848/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 849/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 850/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 851/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 852/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 853/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 854/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 855/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 856/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 857/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 858/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 859/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 860/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 861/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 862/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 863/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 864/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 865/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 866/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 867/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 868/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 869/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 870/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 871/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 872/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 873/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 874/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 875/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 876/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 877/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 878/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 879/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 880/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 881/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 882/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 883/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 884/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 885/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 886/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 887/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 888/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 889/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 890/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 891/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 892/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 893/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 894/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 895/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 896/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 897/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 898/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 899/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 900/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 901/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 902/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 903/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 904/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 905/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 906/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 907/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 908/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 909/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 910/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 911/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 912/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 913/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 914/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 915/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 916/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 917/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 918/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 919/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 920/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 921/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 922/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 923/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 924/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 925/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 926/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 927/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 928/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 929/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 930/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 931/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 932/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 933/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 934/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 935/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 936/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 937/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 938/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 939/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 940/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 941/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 942/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 943/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 944/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 945/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 946/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 947/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 948/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 949/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 950/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 951/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 952/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 953/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 954/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 955/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 956/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 957/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 958/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 959/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 960/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 961/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 962/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 963/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 964/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 965/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 966/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 967/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 968/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 969/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 970/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 971/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 972/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 973/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 974/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 975/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 976/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 977/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 978/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 979/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 980/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 981/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 982/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 983/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 984/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 985/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 986/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 987/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 988/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 989/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 990/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 991/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 992/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 993/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 994/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 995/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 996/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 997/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 998/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 999/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1000/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1001/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1002/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1003/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1004/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1005/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1006/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1007/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1008/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1009/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1010/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1011/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1012/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1013/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1014/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1015/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1016/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1017/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1018/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1019/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1020/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1021/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1022/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1023/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1024/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1025/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1026/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1027/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1028/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1029/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1030/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1031/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1032/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1033/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1034/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1035/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1036/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1037/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1038/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1039/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1040/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1041/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1042/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1043/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1044/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1045/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1046/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1047/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1048/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1049/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1050/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1051/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1052/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1053/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1054/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1055/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1056/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1057/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1058/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1059/1061
+Player: 0/0
+Count: 10
+
+Successfully retrieved from:
+Team: 1060/1061
+Player: 0/0
+Count: 10
